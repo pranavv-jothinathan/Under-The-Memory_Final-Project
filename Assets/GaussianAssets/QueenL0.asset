@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 33b71fae31e6c7d438e8566dc713e666, type: 3}
+  m_Name: QueenL0
+  m_EditorClassIdentifier: 
+  m_FormatVersion: 20231020
+  m_SplatCount: 929606
+  m_BoundsMin: {x: -4.8172083, y: -1.2901375, z: -0.5413232}
+  m_BoundsMax: {x: 5.3937607, y: 9.200688, z: 4.755297}
+  m_DataHash:
+    serializedVersion: 2
+    Hash: ba2e2cff97da4ed7eb1755e8a594725c
+  m_PosFormat: 0
+  m_ScaleFormat: 0
+  m_SHFormat: 0
+  m_ColorFormat: 0
+  m_PosData: {fileID: 4900000, guid: 6557c4c097c152c4b928f752c8a1713c, type: 3}
+  m_ColorData: {fileID: 4900000, guid: 26308f4f474b5e3479329f4fee37a9aa, type: 3}
+  m_OtherData: {fileID: 4900000, guid: e3d0c13f6244eea4baa0062941187794, type: 3}
+  m_SHData: {fileID: 4900000, guid: 9283b67e0e4815e4fa3e307cc8b55b67, type: 3}
+  m_ChunkData: {fileID: 0}
+  m_Cameras: []

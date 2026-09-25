@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 33b71fae31e6c7d438e8566dc713e666, type: 3}
+  m_Name: NaptuneL0
+  m_EditorClassIdentifier: 
+  m_FormatVersion: 20231020
+  m_SplatCount: 467940
+  m_BoundsMin: {x: -1.4186292, y: -3.3159533, z: -0.5305935}
+  m_BoundsMax: {x: 2.0123105, y: -0.7271029, z: 4.2554703}
+  m_DataHash:
+    serializedVersion: 2
+    Hash: f74336f865ca730bd004cfb5c6990438
+  m_PosFormat: 0
+  m_ScaleFormat: 0
+  m_SHFormat: 0
+  m_ColorFormat: 0
+  m_PosData: {fileID: 4900000, guid: aaa8eeb5c191ac844a8fd6b3e7d15fa4, type: 3}
+  m_ColorData: {fileID: 4900000, guid: d677f906abd30824bb4182010250e693, type: 3}
+  m_OtherData: {fileID: 4900000, guid: 20fbaedb64518c141bc9ae7556762015, type: 3}
+  m_SHData: {fileID: 4900000, guid: daaa37c3d7bb4c2428a824757ccc1278, type: 3}
+  m_ChunkData: {fileID: 0}
+  m_Cameras: []

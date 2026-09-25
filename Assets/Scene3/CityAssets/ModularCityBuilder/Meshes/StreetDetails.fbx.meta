@@ -1,0 +1,219 @@
+fileFormatVersion: 2
+guid: f6dac5689690a8549bd1bf87d782e3f6
+timeCreated: 1568126875
+licenseType: Store
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: BarSign01
+    100002: BarSign0564
+    100004: Bench
+    100006: BusStop
+    100008: DinnerSign01
+    100010: DinnerSign02
+    100012: FlashingE
+    100014: FoodSign01
+    100016: FoodSign02
+    100018: FruitSign01
+    100020: NewsStand
+    100022: ParkingMeter01
+    100024: RestaurantSign01
+    100026: RestaurantSign02
+    100028: StoreSign01
+    100030: //RootNode
+    100032: BarSign02
+    100034: FoodSign03
+    100036: N
+    100038: RestaurantSign03
+    100040: RestaurantSign04
+    100042: RestaurantSign05
+    100044: RestaurantSign06
+    100046: S
+    100048: StoreSign02
+    100050: StoreSign03
+    100052: StoreSign04
+    400000: BarSign01
+    400002: BarSign0564
+    400004: Bench
+    400006: BusStop
+    400008: DinnerSign01
+    400010: DinnerSign02
+    400012: FlashingE
+    400014: FoodSign01
+    400016: FoodSign02
+    400018: FruitSign01
+    400020: NewsStand
+    400022: ParkingMeter01
+    400024: RestaurantSign01
+    400026: RestaurantSign02
+    400028: StoreSign01
+    400030: //RootNode
+    400032: BarSign02
+    400034: FoodSign03
+    400036: N
+    400038: RestaurantSign03
+    400040: RestaurantSign04
+    400042: RestaurantSign05
+    400044: RestaurantSign06
+    400046: S
+    400048: StoreSign02
+    400050: StoreSign03
+    400052: StoreSign04
+    2300000: BarSign01
+    2300002: BarSign0564
+    2300004: Bench
+    2300006: BusStop
+    2300008: DinnerSign01
+    2300010: DinnerSign02
+    2300012: FlashingE
+    2300014: FoodSign01
+    2300016: FoodSign02
+    2300018: FruitSign01
+    2300020: NewsStand
+    2300022: ParkingMeter01
+    2300024: RestaurantSign01
+    2300026: RestaurantSign02
+    2300028: StoreSign01
+    2300030: BarSign02
+    2300032: FoodSign03
+    2300034: N
+    2300036: RestaurantSign03
+    2300038: RestaurantSign04
+    2300040: RestaurantSign05
+    2300042: RestaurantSign06
+    2300044: S
+    2300046: StoreSign02
+    2300048: StoreSign03
+    2300050: StoreSign04
+    3300000: BarSign01
+    3300002: BarSign0564
+    3300004: Bench
+    3300006: BusStop
+    3300008: DinnerSign01
+    3300010: DinnerSign02
+    3300012: FlashingE
+    3300014: FoodSign01
+    3300016: FoodSign02
+    3300018: FruitSign01
+    3300020: NewsStand
+    3300022: ParkingMeter01
+    3300024: RestaurantSign01
+    3300026: RestaurantSign02
+    3300028: StoreSign01
+    3300030: BarSign02
+    3300032: FoodSign03
+    3300034: N
+    3300036: RestaurantSign03
+    3300038: RestaurantSign04
+    3300040: RestaurantSign05
+    3300042: RestaurantSign06
+    3300044: S
+    3300046: StoreSign02
+    3300048: StoreSign03
+    3300050: StoreSign04
+    4300000: ParkingMeter01
+    4300002: BusStop
+    4300004: Bench
+    4300006: RestaurantSign01
+    4300008: BarSign01
+    4300010: FoodSign01
+    4300012: FruitSign01
+    4300014: RestaurantSign02
+    4300016: DinnerSign01
+    4300018: StoreSign01
+    4300020: FoodSign02
+    4300022: BarSign0564
+    4300024: DinnerSign02
+    4300026: FlashingE
+    4300028: NewsStand
+    4300030: RestaurantSign03
+    4300032: RestaurantSign04
+    4300034: RestaurantSign06
+    4300036: RestaurantSign05
+    4300038: S
+    4300040: N
+    4300042: StoreSign02
+    4300044: StoreSign03
+    4300046: FoodSign03
+    4300048: StoreSign04
+    4300050: BarSign02
+  externalObjects: {}
+  materials:
+    importMaterials: 0
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 0
+    importBlendShapes: 1
+    importCameras: 0
+    importLights: 0
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 40
+    normalImportMode: 1
+    tangentImportMode: 3
+    normalCalculationMode: 0
+  importAnimation: 0
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

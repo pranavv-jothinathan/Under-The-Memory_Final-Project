@@ -1,0 +1,35 @@
+{
+    "version": 1,
+    "name": "FilterInputActions",
+    "maps": [
+        {
+            "name": "Filter",
+            "id": "53c44efb-4130-48e1-a3a5-17b34d03c912",
+            "actions": [
+                {
+                    "name": "ToggleLensMenu",
+                    "type": "Button",
+                    "id": "e01a461c-2c76-4a89-b9ea-ca7d820d4893",
+                    "expectedControlType": "",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": false
+                }
+            ],
+            "bindings": [
+                {
+                    "name": "",
+                    "id": "c102189f-1580-4e25-a989-dc5ade3c805f",
+                    "path": "<XRController>{LeftHand}/{SecondaryButton}",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "ToggleLensMenu",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                }
+            ]
+        }
+    ],
+    "controlSchemes": []
+}

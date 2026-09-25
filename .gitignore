@@ -1,0 +1,52 @@
+# Unity generated folders
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Uu]ser[Ss]ettings/
+
+# IDE / editor
+.vs/
+.vscode/
+.idea/
+
+# Visual Studio / Rider generated files
+*.csproj
+*.sln
+*.suo
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+*.pdb
+*.mdb
+*.opendb
+*.VC.db
+*.DotSettings.user
+
+# Gradle / Android
+.gradle/
+
+# Unity memory / recordings
+MemoryCaptures/
+Recordings/
+
+# Burst debug output
+*_BurstDebugInformation_DoNotShip/
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Build outputs
+*.apk
+*.aab
+
+# Temporary / backup files
+*.tmp
+*.bak
+*.swp
+*.blend1
