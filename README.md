@@ -340,3 +340,11 @@ Potential future improvements include:
 - Add additional Memory Bubbles with more location-based 360° memories
 - Expand the ecosystem rescue interactions and ecological decision-making
 - Improve onboarding and guidance for first-time VR users
+
+<br>
+
+## 🎥 Demo Video
+
+A demonstration of **Under the Memory**, showcasing the 3D Gaussian Splatting environment, Archive Scanner, Memory Bubbles, Archive Lens, environmental transformations, and ecosystem interactions.  
+
+▶️ [View the Under the Memory Demo Release](https://github.com/pranavv-jothinathan/Under-The-Memory_Final-Project/releases/tag/demoVideo-v1)
